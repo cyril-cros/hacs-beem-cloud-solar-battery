@@ -1,0 +1,15 @@
+{
+  "codeowners": [
+    "@cyril-cros"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/cyril-cros/hacs-beem-cloud-solar-battery",
+  "domain": "hacs_beem_cloud_solar_battery",
+  "iot_class": "cloud_polling",
+  "name": "hacs-beem-cloud-solar-battery",
+  "requirements": [
+    "voluptuous",
+    "aiohttp",
+    "async-timeout"
+  ]
+}

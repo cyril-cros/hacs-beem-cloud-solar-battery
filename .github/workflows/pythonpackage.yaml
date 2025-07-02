@@ -27,5 +27,4 @@ jobs:
 
       - name: Run pytest
         run: |
-          print(pytest --version)
           pytest

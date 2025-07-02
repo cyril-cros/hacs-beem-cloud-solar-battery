@@ -1,7 +1,8 @@
 # Github Custom for Home Assistant
 
 [![](https://img.shields.io/github/license/cyril-cros/hacs-beem-cloud-solar-battery?style=for-the-badge)](LICENSE)
-[![](https://img.shields.io/github/actions/workflow/status/cyril-cros/hacs-beem-cloud-solar-battery/pythonpackage.yaml?branch=main&style=for-the-badge)](https://github.com/cyril-cros/hacs-beem-cloud-solar-battery/actions)
+[![Python package](https://github.com/cyril-cros/hacs-beem-cloud-solar-battery/actions/workflows/pythonpackage.yaml/badge.svg?branch=main)](https://github.com/cyril-cros/hacs-beem-cloud-solar-battery/actions/workflows/pythonpackage.yaml)
+[![Validate with hassfest](https://github.com/cyril-cros/hacs-beem-cloud-solar-battery/actions/workflows/hassfest.yaml/badge.svg?branch=main)](https://github.com/cyril-cros/hacs-beem-cloud-solar-battery/actions/workflows/hassfest.yaml)
 
 ## About
 
